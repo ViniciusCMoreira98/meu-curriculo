@@ -1,5 +1,5 @@
 function Home() {
-    return <div>Terá um curriculo aqui</div>
+    return <div>E aí meu chapa</div>
 }
 
 export default Home
